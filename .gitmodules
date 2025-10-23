@@ -1,0 +1,12 @@
+[submodule "emboot-engine"]
+	path = emboot-engine
+	url = https://github.com/sulfurandcu/emboot-engine.git
+[submodule "emboot-pack"]
+	path = emboot-pack
+	url = https://github.com/sulfurandcu/emboot-pack.git
+[submodule "emboot-tailor"]
+	path = emboot-tailor
+	url = https://github.com/sulfurandcu/emboot-tailor.git
+[submodule "emboot-template"]
+	path = emboot-template
+	url = https://github.com/sulfurandcu/emboot-template.git
